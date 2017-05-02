@@ -12,3 +12,8 @@ intro-to-tensorflow/notMNIST_train.zip
 
 .ipynb_checkpoints/
 
+cifar-10-batches-py/
+cifar-10-python.tar.gz
+__pycache__/
+
+image-classification/*.p
