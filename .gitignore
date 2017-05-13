@@ -10,6 +10,8 @@ intro-to-tensorflow/notMNIST.pickle
 intro-to-tensorflow/notMNIST_test.zip
 intro-to-tensorflow/notMNIST_train.zip
 
+embeddings/text8
+
 .ipynb_checkpoints/
 
 cifar-10-batches-py/
